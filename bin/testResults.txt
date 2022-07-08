@@ -1,0 +1,91 @@
+--------------------------------------------------------------
+
+Time taken to sort int10.txt:
+
+Original quick sort for: 46 milliseconds
+
+Quick sort with insertion sort for: 4 milliseconds
+
+Quick sort with median of three for: 2 milliseconds
+
+Three way quick sort for: 3 milliseconds
+
+Merge sort for: 4 milliseconds
+--------------------------------------------------------------
+
+Time taken to sort int50.txt:
+
+Original quick sort for: 4 milliseconds
+
+Quick sort with insertion sort for: 4 milliseconds
+
+Quick sort with median of three for: 3 milliseconds
+
+Three way quick sort for: 2 milliseconds
+
+Merge sort for: 4 milliseconds
+--------------------------------------------------------------
+
+Time taken to sort int100.txt:
+
+Original quick sort for: 5 milliseconds
+
+Quick sort with insertion sort for: 3 milliseconds
+
+Quick sort with median of three for: 3 milliseconds
+
+Three way quick sort for: 2 milliseconds
+
+Merge sort for: 4 milliseconds
+--------------------------------------------------------------
+
+Time taken to sort int1000.txt:
+
+Original quick sort for: 11 milliseconds
+
+Quick sort with insertion sort for: 8 milliseconds
+
+Quick sort with median of three for: 10 milliseconds
+
+Three way quick sort for: 9 milliseconds
+
+Merge sort for: 7 milliseconds
+--------------------------------------------------------------
+
+Time taken to sort intBig.txt:
+
+Original quick sort for: 1426 milliseconds
+
+Quick sort with insertion sort for: 1228 milliseconds
+
+Quick sort with median of three for: 1216 milliseconds
+
+Three way quick sort for: 1222 milliseconds
+
+Merge sort for: 1255 milliseconds
+--------------------------------------------------------------
+
+Time taken to sort dutch.txt:
+
+Original quick sort for: 888 milliseconds
+
+Quick sort with insertion sort for: 965 milliseconds
+
+Quick sort with median of three for: 851 milliseconds
+
+Three way quick sort for: 506 milliseconds
+
+Merge sort for: 531 milliseconds
+--------------------------------------------------------------
+
+Time taken to sort int500k.txt:
+
+Original quick sort for: 603 milliseconds
+
+Quick sort with insertion sort for: 601 milliseconds
+
+Quick sort with median of three for: 608 milliseconds
+
+Three way quick sort for: 604 milliseconds
+
+Merge sort for: 631 milliseconds
